@@ -97,4 +97,4 @@ Restaurant-Web-Programming/
 
 **Fadhil Raihan Gunawan**  
 B.Sc. (Hons.) Computer Science (Software Engineering) · UTM  
-[fadhilraihangunawan@gmail.com](mailto:fadhilraihangunawan@gmail.com) · [Portfolio](http://fadhilraihangunawan.github.io/)
+[fadhilraihangunawan@gmail.com](mailto:fadhilraihangunawan@gmail.com)
